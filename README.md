@@ -1,2 +1,2 @@
 # zmcreate.github.io
-oak-design-system
+OMK Design System
